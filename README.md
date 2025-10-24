@@ -1,6 +1,9 @@
 # TaskMaster - React Task Management Application
 
 A modern, responsive React application built with Vite, React Router, and Tailwind CSS. Features task management, API integration, and dark/light theme support.
+
+**By: Esther Alfred
+
 ## 🚀 Live Deployment
 
 - **Live Application:** (https://react-js-jsx-and-css-mastering.netlify.app)
