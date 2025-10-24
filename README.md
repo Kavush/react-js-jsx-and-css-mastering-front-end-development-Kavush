@@ -1,6 +1,10 @@
 # TaskMaster - React Task Management Application
 
 A modern, responsive React application built with Vite, React Router, and Tailwind CSS. Features task management, API integration, and dark/light theme support.
+## 🚀 Live Deployment
+
+- **Live Application:** (https://react-js-jsx-and-css-mastering.netlify.app)
+- **GitHub Repository:** (https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Kavush)
 
 ## 🚀 Features
 
@@ -24,7 +28,7 @@ A modern, responsive React application built with Vite, React Router, and Tailwi
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone <(https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Kavush.git)>
 cd task-manager-app
 Install dependencies:
 
@@ -66,13 +70,8 @@ Desktop (1024px and up)
 Toggle between light and dark themes using the theme switcher in the navigation bar. Preferences are saved in local storage.
 
 🚀 Deployment
-The application can be deployed to:
+This app is deployed on Netlify. Every push to the main branch automatically triggers a new deployment.
 
-Vercel
-
-Netlify
-
-GitHub Pages
 
 📄 License
 MIT License - feel free to use this project for learning purposes.
